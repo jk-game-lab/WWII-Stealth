@@ -4633,6 +4633,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1017139839}
     m_Modifications:
+    - target: {fileID: 1541000889885240, guid: 70a87f2f086b82b4b8ac765154f8d554, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4459453897964456, guid: 70a87f2f086b82b4b8ac765154f8d554, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -8773,6 +8777,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1017139839}
     m_Modifications:
+    - target: {fileID: 1571386989476852, guid: 58614456d4811774b8cb37c80aa2793d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4431198719907580, guid: 58614456d4811774b8cb37c80aa2793d, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -9979,6 +9987,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WindowTypeB (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1215182999667228, guid: f44165f6f066b6d41a487ddca81c540b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4202194127464572, guid: f44165f6f066b6d41a487ddca81c540b, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -10838,6 +10850,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 683903614}
     m_Modifications:
+    - target: {fileID: 1541000889885240, guid: 70a87f2f086b82b4b8ac765154f8d554, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4459453897964456, guid: 70a87f2f086b82b4b8ac765154f8d554, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -14154,6 +14170,10 @@ PrefabInstance:
     - target: {fileID: 1401159929008618, guid: 39e89b47cdf327e48bfcb607d95e5a24, type: 3}
       propertyPath: m_Name
       value: WallRoofRight (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1401159929008618, guid: 39e89b47cdf327e48bfcb607d95e5a24, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4241815145334864, guid: 39e89b47cdf327e48bfcb607d95e5a24, type: 3}
       propertyPath: m_RootOrder
@@ -18277,6 +18297,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRoofRight (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1401159929008618, guid: 39e89b47cdf327e48bfcb607d95e5a24, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4241815145334864, guid: 39e89b47cdf327e48bfcb607d95e5a24, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -21823,6 +21847,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 868459881}
     m_Modifications:
+    - target: {fileID: 1851707362640432, guid: 9d5190bf96a7e8b429882756b5fe23ef, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4797839140230362, guid: 9d5190bf96a7e8b429882756b5fe23ef, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -25277,6 +25305,10 @@ PrefabInstance:
     - target: {fileID: 1851707362640432, guid: 9d5190bf96a7e8b429882756b5fe23ef, type: 3}
       propertyPath: m_Name
       value: RoofSaddle (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1851707362640432, guid: 9d5190bf96a7e8b429882756b5fe23ef, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4797839140230362, guid: 9d5190bf96a7e8b429882756b5fe23ef, type: 3}
       propertyPath: m_RootOrder
@@ -31180,6 +31212,10 @@ PrefabInstance:
     - target: {fileID: 1571386989476852, guid: 58614456d4811774b8cb37c80aa2793d, type: 3}
       propertyPath: m_Name
       value: Roof (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1571386989476852, guid: 58614456d4811774b8cb37c80aa2793d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4431198719907580, guid: 58614456d4811774b8cb37c80aa2793d, type: 3}
       propertyPath: m_RootOrder
